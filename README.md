@@ -1,3 +1,6 @@
+[![Logo](sego0.png)](https://dl.acm.org/doi/abs/10.1145/3627673.3679779)
+
+
 # [AAAI 2025] Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection
 This repository is the official implementation of "[Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection](https://dl.acm.org/doi/abs/10.1145/3627673.3679779)" accepted by the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).
 
