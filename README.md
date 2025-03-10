@@ -1,10 +1,10 @@
-[![Logo](sego0.png)](https://dl.acm.org/doi/abs/10.1145/3627673.3679779)
+[![Logo](sego0.png)](https://arxiv.org/abs/2503.03241)
 
 
 # [AAAI 2025] Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection
-This repository is the official implementation of "[Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection](https://dl.acm.org/doi/abs/10.1145/3627673.3679779)" accepted by the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).
+This repository is the official implementation of "[Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection](https://arxiv.org/abs/2503.03241)" accepted by the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).
 
-[![Black Logo](sego.png)](https://dl.acm.org/doi/abs/10.1145/3627673.3679779)
+[![Black Logo](sego.png)](https://arxiv.org/abs/2503.03241)
 
 ------
 
@@ -50,6 +50,10 @@ python treecl.py -exp_type oodd -DS_pair PTC_MR+MUTAG -num_epoch 400 -num_cluste
 If you find this repository helpful, please consider citing the following paper. We welcome any discussions with [hou_yue@buaa.edu.cn](mailto:hou_yue@buaa.edu.cn).
 
 ```bibtex
-@inproceedings{
+@article{hou2025structural,
+  title={Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection},
+  author={Hou, Yue and Zhu, He and Liu, Ruomei and Su, Yingke and Xia, Jinxiang and Wu, Junran and Xu, Ke},
+  journal={arXiv preprint arXiv:2503.03241},
+  year={2025}
 }
 ```
