@@ -50,10 +50,13 @@ python treecl.py -exp_type oodd -DS_pair PTC_MR+MUTAG -num_epoch 400 -num_cluste
 If you find this repository helpful, please consider citing the following paper. We welcome any discussions with [hou_yue@buaa.edu.cn](mailto:hou_yue@buaa.edu.cn).
 
 ```bibtex
-@article{hou2025structural,
+@inproceedings{hou2025structural,
   title={Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection},
   author={Hou, Yue and Zhu, He and Liu, Ruomei and Su, Yingke and Xia, Jinxiang and Wu, Junran and Xu, Ke},
-  journal={arXiv preprint arXiv:2503.03241},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={16},
+  pages={17258--17266},
   year={2025}
 }
 ```
